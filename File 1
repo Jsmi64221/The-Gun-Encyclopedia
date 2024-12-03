@@ -1,0 +1,8 @@
+gun-encyclopedia/
+├── index.html
+├── styles/
+│   └── style.css
+├── scripts/
+│   └── main.js
+└── data/
+    └── firearms.json
